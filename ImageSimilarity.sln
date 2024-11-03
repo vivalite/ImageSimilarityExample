@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageSimilarity", "ImageSimilarity.csproj", "{6145103C-173E-428F-B6D1-5B8830065BCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6145103C-173E-428F-B6D1-5B8830065BCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6145103C-173E-428F-B6D1-5B8830065BCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6145103C-173E-428F-B6D1-5B8830065BCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6145103C-173E-428F-B6D1-5B8830065BCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F645F0E-9293-4620-B9A1-F1FFBC400AAA}
+	EndGlobalSection
+EndGlobal
